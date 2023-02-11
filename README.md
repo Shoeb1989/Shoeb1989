@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with Web Developer 
 - 📫 How to reach me: via **LinkedIn Message** Or **Email me** here Shoebsikder1@gmail.com 
 
-https://github.com/Shoeb1989/Shoeb1989/blob/main/giphy.gif
+
  
 
 
