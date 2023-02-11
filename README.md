@@ -1,5 +1,5 @@
 ![logo](https://github.com/Shoeb1989/Shoeb1989/blob/main/Shoeb.png)
-<h1 align="center"> Hi there 👋, Myself **SHOEB** </h1>
+<h1 align="center"> Hi there 👋, Myself SHOEB </h1>
 
 ### Running BSc in **Computer Science and Engineering**.
 ### A *lifetime* lover of science museums, TV shows, Sports, and tech, I can quickly dive into the details while keeping a mind for the big picture.
