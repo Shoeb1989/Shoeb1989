@@ -1,5 +1,6 @@
 ![logo](https://github.com/Shoeb1989/Shoeb1989/blob/main/Shoeb.png)
-### Hi there 👋, Myself **SHOEB**
+<h1 align="center"> Hi there 👋, Myself **SHOEB** </h1>
+
 ### Running BSc in **Computer Science and Engineering**.
 ### A *lifetime* lover of science museums, TV shows, Sports, and tech, I can quickly dive into the details while keeping a mind for the big picture.
 
@@ -8,7 +9,8 @@
 - 🤔 I’m looking for help with Web Developer 
 - 📫 How to reach me: via **LinkedIn Message** Or **Email me** here Shoebsikder1@gmail.com 
 
- <p><img align="right" alt="gif" sre="https://github.com/Shoeb1989/Shoeb1989/blob/main/giphy.gif" width="400" height="300" /></p>
+https://github.com/Shoeb1989/Shoeb1989/blob/main/giphy.gif
+ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shoeb1989)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/shoebsiju)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shoebsikder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shoeb.siju.3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shoeb_siju/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.its-shoeb.xyz/)  
