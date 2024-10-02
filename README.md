@@ -4,8 +4,7 @@
 ### A *lifetime* lover of science museums, TV shows, Sports, and tech, I can quickly dive into the details while keeping a mind for the big picture.
 
 - 🔭 I’m currently working on **A Software Project** 
-- 🌱 I’m currently learning **React/ MongoDB** 
-- 🤔 I’m looking for help with Web Developer 
+- 🌱 I’m currently learning **React js/ MongoDB** 
 - 📫 How to reach me: via **LinkedIn Message** Or **Email me** here Shoebsikder1@gmail.com 
 
 
